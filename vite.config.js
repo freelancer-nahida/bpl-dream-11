@@ -15,5 +15,6 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
+     base: "/bpl-dream-11/",
   ],
 })
