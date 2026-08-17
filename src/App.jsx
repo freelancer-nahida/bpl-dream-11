@@ -9,8 +9,13 @@ import { Suspense, useState } from "react";
 
 
 // Component-এর বাইরে Promise কল করুন
+// const fetchPlayer = async () => {
+//   const res = await fetch("/data.json");
+//   return await res.json();
+// };
+
 const fetchPlayer = async () => {
-  const res = await fetch("/data.json");
+  const res = await fetch(`${import.meta.env.BASE_URL}data.json`);
   return await res.json();
 };
 
