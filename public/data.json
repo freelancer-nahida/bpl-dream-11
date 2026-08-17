@@ -1,0 +1,83 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.8,
+    "battingStyle": "Right-hand Bat",
+    "price": 10000,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.7,
+    "battingStyle": "Right-hand Bat",
+    "price": 500,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand Bat",
+    "price": 200,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "rating": 9.6,
+    "battingStyle": "Left-hand Bat",
+    "price": 1900,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "rating": 9.4,
+    "battingStyle": "Left-hand Bat",
+    "price": 500,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "battingStyle": "Right-hand Bat",
+    "price": 800,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.2,
+    "battingStyle": "Right-hand Bat",
+    "price": 1800000,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 9.5,
+    "battingStyle": "Right-hand Bat",
+    "price": 2050000,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  },
+  {
+    "playerName": "Travis Head",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "battingStyle": "Left-hand Bat",
+    "price": 1750000,
+    "playerImage": "https://i.ibb.co.com/k2gZMsvR/Screenshot-54.png"
+  }
+]
